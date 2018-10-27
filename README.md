@@ -12,7 +12,8 @@ Sourness is acidity
 Research has shown that TAS2Rs (taste receptors, type 2, also known as T2Rs) such as TAS2R38 are responsible for the human ability to taste bitter substances
 The amino acid glutamic acid is responsible for savoriness
 Disorders of taste
-ageusia (complete loss of taste)
-hypogeusia (reduced sense of taste)
-dysgeusia (distortion in sense of taste)
-hypergeusia (abnormally heightened sense of taste)
+Ageusia (complete loss of taste)
+Hypogeusia (reduced sense of taste)
+Dysgeusia (distortion in sense of taste)
+Hypergeusia (abnormally heightened sense of taste)
+Taste can be objective in terms of the five tastes (sweet, salt, sour, bitter, and savory) but it can also be subjective in terms of what we deem "good" and "bad." It is subjective, objective, and qualitative.
